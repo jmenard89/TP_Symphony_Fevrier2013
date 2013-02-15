@@ -1,0 +1,7 @@
+parameters:
+#    gestion_de_projet_depot.example.class: GestionDeProjet\DepotBundle\Example
+
+services:
+#    gestion_de_projet_depot.example:
+#        class: %gestion_de_projet_depot.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,7 @@
+parameters:
+#    gestion_de_projet_client.example.class: GestionDeProjet\ClientBundle\Example
+
+services:
+#    gestion_de_projet_client.example:
+#        class: %gestion_de_projet_client.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
